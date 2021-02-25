@@ -19,3 +19,7 @@ A user has not a responsibility for the database's administration and his/her re
 - Access to course's forum.
 - Ability to receive certification if he/she completes the course.
 
+# EER diagram
+
+![EER diagram-2ό Παραδοτέο](https://user-images.githubusercontent.com/26204902/109143593-e2c81680-7768-11eb-88de-287e5a58a177.png)
+
