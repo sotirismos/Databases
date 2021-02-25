@@ -1,8 +1,8 @@
-#OVERVIEW
+# OVERVIEW
 
 The concept of traditional education has changed rapidly within the last few years. Nowadays, you have access yo a quality education whenever and wherever you want as we're entering a new era - the revolution of online education.
 
-#PROJECT
+# PROJECT
 
 This project constructs a database for online courses. Every course has it's own slides, videos with the ability to download them, quizzes, forum, fee and certification.
 
@@ -18,3 +18,6 @@ A user has not a responsibility for the database's administration and his/her re
 - Ability to grade each course.
 - Access to course's forum.
 - Ability to receive certification if he/she completes the course.
+
+# EER diagram
+https://user-images.githubusercontent.com/26204902/109140667-81527880-7765-11eb-8931-66de0116dead.png
