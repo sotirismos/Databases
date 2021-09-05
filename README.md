@@ -2,7 +2,7 @@
 
 The concept of traditional education has changed rapidly within the last few years. Nowadays, you have access yo a quality education whenever and wherever you want as we're entering a new era - the revolution of online education.
 
-# PROJECT
+## PROJECT
 
 This project constructs a database for online courses. Every course has it's own slides, videos with the ability to download them, quizzes, forum, fee and certification.
 
